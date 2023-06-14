@@ -121,6 +121,9 @@ h3{
   margin-bottom: 80px;
   padding: 24px;
 }
+.box h3{
+  margin-top: 24px;
+}
 .kfc p{
   width: 650px;
   color: rgba(33, 33, 33, 1);
